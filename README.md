@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet.svg?style=flat)](https://github.com/jagathgj/html-sass-bootstrap-gulp-multipage-boilerplate)
 
 <p align="center">
-  <img src="./src/assets/img/banner.PNG" />
+  <img src="./src/assets/img/screenshot.PNG" />
 </p>
 
 ## Intro
