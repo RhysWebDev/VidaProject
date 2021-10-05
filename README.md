@@ -1,10 +1,6 @@
 # Vida Project
 
 
-<p align="center">
-  <img src="https://ibb.co/gd7pfVr" />
-</p>
-
 ## Intro
 
 The best starter kit for website with multipages using Bootstrap 4, Gulp 4, Sass, BrowserSync with minification.
