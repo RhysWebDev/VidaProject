@@ -1,5 +1,5 @@
 # Vida Coding Challenge
 
 <p align="center">
-  <img src="https://imgur.com/m1upW9y" />
+  <img src="https://imgur.com/a/sEZcWjS" />
 </p>
