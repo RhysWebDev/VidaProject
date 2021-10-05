@@ -59,18 +59,3 @@ $ npm run start
 * [Gulp 4](https://gulpjs.com/)
 * [Sass](https://sass-lang.com/)
 
-## Authors
-
-* **Jagath Jayakumar** - [Github](https://github.com/jagathgj) - [Official](https://www.hellojagath.com)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* Myself
-* etc
-
