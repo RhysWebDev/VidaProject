@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./src/assets/img/screenshot.PNG" />
+  <img src="https://ibb.co/gd7pfVr" />
 </p>
 
 ## Intro
